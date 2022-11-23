@@ -5,20 +5,6 @@
 <body>
 <div class="container-fluid p-0">
 
-
-<header class="col-12 p-0 float-left">
-<img src="<?php echo get_template_directory_uri(); ?>/assets//banner/left.png" alt="left-image" class="left-image">
-<div class="logo-container">
-<a href="index.html"><img src="<?php echo get_template_directory_uri(); ?>/assets/logo.svg" alt="Champion Trophies & Awards Logo"></a>
-</div>
-<img src="<?php echo get_template_directory_uri(); ?>/assets//banner/right.png" alt="right-image" class="right-image">
-
-
-
-
-</header>
-
-
 <?php include('component-nav.php'); ?>
 
 

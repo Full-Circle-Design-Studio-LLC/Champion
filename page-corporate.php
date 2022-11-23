@@ -6,18 +6,6 @@
   <div class="container-fluid p-0" id="page-corporate">
 
 
-    <header class="col-12 p-0 float-left">
-    <img src="<?php echo get_template_directory_uri(); ?>/assets/banner/left.png" alt="left-image" class="left-image">
-    <div class="logo-container">
-    <a href="<?php echo get_site_url(); ?>/home"><img src="<?php echo get_template_directory_uri(); ?>/assets/logo.svg" alt="Champion Trophies & Awards Logo"></a>
-    </div>
-    <img src="<?php echo get_template_directory_uri(); ?>/assets/banner/right.png" alt="right-image" class="right-image">
-
-
-
-
-    </header>
-
 
     <?php include('component-nav.php'); ?>
 
