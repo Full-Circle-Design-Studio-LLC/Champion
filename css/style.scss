@@ -1,0 +1,1090 @@
+h1{
+    font-family: 'Raleway', sans-serif !important;
+    font-size: 2.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: .5em;
+  }
+  
+  p{
+  font-family: raleway, sans-serif;
+    font-size: 18px;
+    line-height: 32px;
+  }
+  
+  body{
+    background-color: black;
+  }
+  
+  header{
+    background-color: #050707;
+    overflow: hidden;
+  max-height: 18em;
+    position: relative;
+  }
+  
+  header li{
+    list-style: none;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+  }
+  header ul{
+      margin-top: 2.5em;
+      display: block;
+      padding-left: 1em;
+  }
+  header h3{
+    font-size: 1.25em;
+    font-weight: bold;
+  }
+  
+  
+  
+  .logo-container{
+  width: 25%;
+    display: block;
+    margin: auto;
+    height: 100%;
+    float: left;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+  
+  }
+  
+  .logo-container img{
+    max-height: 14em;
+    margin-top: 2em;
+    width: 100%;
+  }
+  .left-image{
+  width: 30%;
+    float: left;
+  margin-top: -5%;
+  }
+  .right-image{
+  width: 30%;
+  float: right;
+  margin-top: -5%;
+  
+  }
+  
+  .article-home{
+    background-color: white;
+    float: left;
+  }
+  .article-home h2{
+    font-size: 1.75em;
+    margin-top: 2em;
+  }
+  .article-home p{
+    margin-bottom: 0;
+  }
+  
+  .article-awards{
+    background-color: white;
+    padding: 0;
+    float: left;
+    border-radius: .15em;
+  }
+  
+  .article-statues{
+    background-color: white;
+    padding: 0;
+    float: left;
+    border-radius: .15em;
+  }
+  
+  #gallery{
+  border-radius: .15em;
+  }
+  .gallery-container{
+    padding-left: .25em;
+    padding-right: .25em;
+  }
+  .gallery-photo-container{
+    margin-bottom: 2em;
+  }
+  .gallery{
+    border-radius: .15em;
+  }
+  
+  
+  
+  article{
+    border-radius: .15em;
+  }
+  
+  
+  h2{
+    font-family: garamond;
+    font-weight: bold;
+    font-size: 1.3em;
+    font-family: 'Raleway', sans-serif !important;
+    text-transform: uppercase;
+  
+  }
+  
+  hr{
+  background-color: white;
+  padding: 0;
+  }
+  
+  iframe{
+    border: none;
+  width: 100% !important;
+  height: 20em;
+  padding: 0!important;
+  border-radius: .15em!important;
+  }
+  
+  button{
+    margin: .75em;
+  }
+  
+  img{
+    max-width: 100%;
+    height: auto;
+  }
+  
+  footer{
+  min-height: 4em;
+    background-color: black;
+    float: left;
+    margin-top: .25em;
+  }
+  footer h3{
+    font-size: 1.25em;
+    font-weight: bold;
+    font-family: raleway, sans-sans-serif;
+  }
+  
+  footer li{
+    list-style: none;
+    color: white;
+    font-family: raleway, sans-sans-serif;
+  }
+  footer ul{
+      margin-top: 2.5em;
+      display: block;
+      padding-left: 1em;
+      margin-bottom: 2.5em;
+  }
+  
+  footer a{
+    opacity: 1;
+    transition: .5s ease;
+  }
+  
+  footer a:hover{
+    opacity: .5;
+    transition: .5s ease;
+  }
+  
+  .article-container{
+    padding: 0 .25em .25em .25em;
+  }
+  
+  .social-media img{
+  width: 2em;
+  height: auto;
+  }
+  
+  .social-media li:nth-child(2){
+    float: left;
+    margin-right: 1em;
+  }
+  
+  .connect {
+    width: 250px;
+    max-width: none;
+  }
+  @media screen and (min-width: 1200px) {
+    .connect {
+      margin-left: 80px!important;
+    }
+    .designed-by-fcd-container {
+      margin-top: 18px;
+      margin-right: 80px;
+    }
+  }
+  .hours {
+    width: 250px;
+  }
+  .location {
+    width: 250px;
+    max-width: none;
+  }
+  .designed-by-fcd-container {
+    width: 250px;
+  }
+  .designed-by {
+    color: white;
+    margin-bottom: 20px;
+    padding-left: 15px;
+  }
+  .fcd-logo {
+    display: block;
+    width: 200px;
+    margin-bottom: 50px;
+    padding-left: 15px;
+  }
+  .fcd-logo:hover {
+    opacity: 1;
+  }
+  .fcd-log-img {
+    width: 100%;
+  }
+  
+  
+  
+  a:hover{
+      text-decoration: none;
+  }
+  
+  
+  .logo{
+    display:block;
+    height: 80%;
+    max-width: 10.4em;
+    width: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 11.25%;
+    padding: 0;
+  
+  
+  }
+  
+  
+  
+  nav h4{
+    text-align: center !important;
+    float: left;
+    color: white;
+    font-size: 1.25em;
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  nav li{
+      font-family: 'Raleway', sans-serif;
+      font-size: 1.1em;
+  }
+  
+  nav a{
+    transition: .5s ease;
+  
+  }
+  
+  nav a:hover{
+    color: white!important;
+    opacity: 1;
+    transition: .5s ease;
+  }
+
+  .nav-link {
+    color: rgba(255,255,255,.5)!important;
+  }
+
+  #page-home {
+    .nav-item:nth-child(1) {
+      .nav-link {
+        font-weight: bold;
+        color: white!important;
+      }
+    }
+  }
+  #page-awards,
+  #page-plaques,
+  #page-medals,
+  #page-corporate {
+    .nav-item:nth-child(2) {
+      .nav-link {
+        font-weight: bold;
+        color: white!important;
+      }
+    }
+  }
+  #page-statue,
+  #page-bronze {
+    .nav-item:nth-child(3) {
+      .nav-link {
+        font-weight: bold;
+        color: white!important;
+      }
+    }
+  }
+  #page-contact {
+    .nav-item:nth-child(4) {
+      .nav-link {
+        font-weight: bold;
+        color: white!important;
+      }
+    }
+  }
+  #page-store {
+    .nav-item:nth-child(5) {
+      .nav-link {
+        font-weight: bold;
+        color: white!important;
+      }
+    }
+  }
+  
+  .airflyte-container{
+    position: relative;
+    overflow: hidden;
+  }
+  .airflyte-hover{
+    opacity: 1;
+    background-color: maroon;
+    height: 1%;
+    position: absolute;
+    width: 100%;
+    transition: .5s ease;
+    bottom: 5em;
+    z-index: 20;
+  }
+  
+  .airflyte-container:hover .airflyte-hover{
+    transform: scaleY(25);
+  
+  }
+  
+  .airflyte-container a{
+  transition: .5s ease;
+  }
+  
+  .airflyte-container-2 a{
+  transition: .5s ease;
+  }
+  
+  .airflyte-container a:hover{
+    color: black;
+    opacity: .75;
+  }
+  
+  .airflyte-container-2 a:hover{
+    color: black;
+    opacity: .75;
+  }
+  
+  
+  #navbarNav{
+    background-color: black;
+  }
+  .navbar{
+  background-color: black;
+  padding: 0;
+  }
+  
+  .navbar-collapse{
+    background-color: #2b2b2b;
+  z-index: 4;
+  text-align: center;
+  
+  }
+  
+  #active-nav{
+  font-weight: bold;
+  }
+  
+  
+  .banner{
+    padding: 0;
+    overflow: hidden;
+    height: 12em;
+    position: relative;
+    border-top: 2px solid white;
+    background-color: black;
+  }
+  
+  .banner img{
+  
+  position: absolute;
+  top: 0em;
+  width: 100%;
+  padding: 0;
+  z-index:-2;
+  }
+  
+  .jump-to-container{
+    padding: 0;
+    margin-top: .5em;
+    float: left;
+    position: relative;
+    overflow: hidden;
+    height: 8em;
+  }
+  
+  .jump-to-container-2{
+    padding: 0;
+    margin-top: .5em;
+    float: left;
+    position: relative;
+    overflow: hidden;
+    height: 8em;
+  }
+  
+  .jump-to-container img{
+  z-index: -2;
+  }
+  
+  .jump-to-container h3{
+    z-index: 2;
+    position: absolute;
+    font-family: garamond;
+    color: white;
+    font-weight: bold;
+    font-size: 2em;
+    font-style: italic;
+    text-align: center;
+    margin-top: 1.5em;
+    width: 100%;
+  }
+  
+  .jump-to-container-2 img{
+  z-index: -2;
+  }
+  
+  .jump-to-container-2 h3{
+    z-index: 2;
+    position: absolute;
+    font-family: garamond;
+    color: white;
+    font-weight: bold;
+    font-size: 2em;
+    font-style: italic;
+    text-align: center;
+    margin-top: 1.5em;
+    width: 100%;
+  }
+  
+  
+  /* Awards | Trophies */
+  
+  .awards-subnav-container{
+        padding:.25em;
+  }
+  
+  .awards-subnav{
+    float: left;
+    background-color: white!important;
+    border-radius: .15em;
+    text-align: center;
+  
+  }
+  
+  .awards-subnav ul{
+    list-style: none;
+    margin-top: .5em;
+  margin-bottom: 0;
+  }
+  
+  .awards-subnav li{
+    float: left;
+    opacity: .4;
+    margin-bottom: 0;
+    transition: .5s ease;
+  }
+  
+  .awards-subnav li:hover{
+    opacity: 1;
+    transition: .5s ease;
+  }
+  
+  .awards-subnav p{
+    font-family: 'Raleway', sans-serif !important;
+    padding-top: .25em;
+    font-size: 1em;
+  }
+  
+  .awards-subnav img{
+    width: 4em;
+    height: auto;
+    margin-top: .25em;
+    margin-bottom: .25em;
+  }
+  
+  .awards-subnav a{
+    color: black;
+  }
+  
+  .text-wrap{
+    padding: .5em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+  }
+  
+  .gallery{
+    background-color: white;
+  }
+  
+  #active{
+    opacity: 1;
+  }
+  
+  #active a{
+    color: black;
+  }
+  
+  
+  .gallery img{
+    padding: .1em!important;
+  }
+  
+  .gallery h2{
+    font-size: 1.5em;
+  }
+  
+  .gallery a:hover{
+    opacity: .75;
+    transition: .5s;
+  }
+  
+  
+  
+  .airflyte{
+    background-color: white;
+    padding: 1em;
+    border-top: 10px solid maroon;
+    border-bottom: 10px solid maroon;
+    margin: 0;
+    border-radius: .15em;
+  }
+  
+  
+  .airflyte-2{
+    background-color: white;
+    padding: 1em;
+    border-top: 10px solid maroon;
+    border-bottom: 10px solid maroon;
+    margin: 0;
+    border-radius: .15em;
+    min-height: 12em;
+    color: black;
+  }
+  
+  .airflyte-container-2{
+    padding: 0;
+    margin-top: .25em;
+  }
+  
+  .airflyte h3{
+    font-size: 2em;
+    font-family: raleway, sans-serif;
+    color: maroon;
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+  
+  .airflyte:hover{
+    color: black;
+  }
+  
+  .airflyte{
+    color: black;
+  }
+  
+  
+  /* CONTAINERS******************************************/
+  .main-container{
+    padding: 0;
+  }
+  .airflyte-container{
+  padding: 0 .25em .25em .25em;
+  }
+  .map-container{
+    padding: 0;
+  }
+  
+  .contact{
+    padding-top: 2em;
+  }
+  
+  
+  /* Store ***********************/
+  
+  .main-store-container{
+    padding: .25em;
+  }
+  .main-store{
+    background-color: white;
+  }
+  
+  .store-container{
+    margin-top: 2em;
+  }
+  
+  /*******************************/
+  
+  @media (min-width: 550px){
+  
+    .article-container{
+      padding: .5em;
+    }
+    .airflyte-container{
+    padding: 0em .5em .5em .5em;
+    margin-bottom: 0;
+    }
+    .map-container{
+      padding: 0 .5em .5em .5em;
+      margin-top: 0;
+    }
+    iframe{
+      padding: 0 .5em .5em .5em!important;
+    }
+  
+    /********************************************************/
+  .awards-subnav-container{
+        padding: .5em .5em 0 .5em;
+  }
+    .awards-subnav{
+      float: left;
+      background-color: lightgrey;
+    }
+    #airflyte-awards{
+      height: 100%;
+    }
+    .airflyte-container-2{
+      margin-top: .5em;
+    }
+  
+    .text-wrap{
+      padding: .5em;
+      margin-top: 2em;
+      margin-bottom: 2em;
+    }
+  
+    .gallery-container{
+      padding-left: .5em!important;
+      padding-right: .5em!important;
+    }
+  }
+  
+  
+  @media (min-width: 992px){
+    nav li{
+      width: 20%;
+    }
+  
+    .airflyte{
+    min-height: 5em !important;
+    }
+  
+    .airflyte-container{
+    padding: .5em .5em .5em 0em;
+    margin-bottom: 0;
+    }
+  
+    .article-home{
+      height: 40em;
+    }
+  
+    .airflyte-text{
+      padding: 0!important;
+    }
+  
+    /* AWARDS PAGES *****************/
+      .article-awards{
+        height: 25em !important;
+      }
+  
+      .article-statues{
+        height: 30em !important;
+      }
+  
+      .gallery-container{
+        padding: .5em .5em 0em 0!important;
+      }
+      #gallery{
+        height: 30em;
+      }
+  
+  
+      .gallery{
+  height: 40.25em;
+        padding: .5em!important;
+      }
+  
+      #airflyte-awards{
+        height: 45.5em!important;
+      }
+  
+      .text-wrap-2{
+        padding: 0!important;
+      }
+  
+      .text-wrap-2 p{
+        padding: 0!important;
+      }
+  
+      .text-wrap-2 h1{
+        padding: 0!important;
+      }
+  
+  
+      /***************************/
+  
+  
+      .aside-contact-container{
+  height: 27em;
+      }
+  
+      .contact-form{
+        height: 27em;
+      }
+  
+  
+    }
+  
+  
+  
+  
+  
+  @media (min-width: 1200px){
+    .article-home{
+      height: 32em;
+        margin-bottom: 0;
+      }
+  
+    .navbar{
+    background-color: black;
+    padding: 0;
+    border-top: none!important;
+    }
+  
+    h2{
+      font-family: garamond;
+      font-weight: bold;
+      font-size: 1.3em;
+    }
+  
+  
+  
+  
+  
+    .banner{
+      height: 15em;
+  
+    }
+  
+    /* CONTAINERS ******************************************/
+    .article-container{
+      padding: .5em;
+    }
+    .airflyte-container{
+    padding: .5em .5em .5em 0em;
+    margin-bottom: 0;
+    }
+    .map-container{
+      padding: 0 .5em .5em .5em;
+      margin-top: 0;
+    }
+    iframe{
+      padding: 0 .5em .5em .5em!important;
+    }
+    /********************************************************/
+  
+    .airflyte{
+      height: 32em !important;
+    }
+    .airflyte-2{
+      background-color: white;
+      padding: 1em;
+      border-top: 10px solid maroon;
+      border-bottom: 10px solid maroon;
+      margin: 0;
+      border-radius: .15em;
+      height: 12.75em;
+      color: black;
+    }
+  
+    .jump-to-container{
+      padding-left: 1em;
+      padding-right: .25em;
+      margin-top: .2em;
+      height: 14em;
+      overflow: hidden;
+      float: left;
+      position: relative;
+    }
+    .jump-to-container-2{
+      padding-left: .25em;
+      padding-left:.5em;
+      margin-top: .2em;
+      height: 14em;
+      overflow: hidden;
+      float: left;
+      position: relative;
+    }
+  
+  
+  
+  
+  /* AWARDS PAGES *****************/
+    .article-awards{
+      height: 20em !important;
+    }
+  
+    .article-statues{
+      height: 25em !important;
+    }
+  
+    .gallery{
+      height: 33.25em!important;
+    }
+  
+    #gallery{
+      height: 25em!important;
+    }
+  
+    #airflyte-awards{
+      height: 45.5em!important;
+    }
+    /***************************/
+  
+    .text-wrap{
+      margin-top: 1.5em;
+    }
+  }
+  
+  
+  
+  
+  
+  
+  
+  .contact-list{
+    list-style: none;
+    padding: 0;
+  }
+  
+  .contact-list li{
+    margin-top: 1em;
+  }
+  
+  textarea{
+    margin-bottom: 1em;
+  }
+  
+  .contact-form{
+    background-color: white;
+    border-radius: .15em;
+  }
+  
+  #page-contact {
+    form {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      column-gap: 2%;
+      p {
+        width: 100%;
+        margin-bottom: 10px;
+        span {
+          input {
+            width: 100%;
+            height: 30px;
+          }
+        }
+        label {
+          color: #212529;
+          font-size: 1rem;
+          line-height: 0;
+        }
+      }
+      p:nth-child(6) {
+        width: 100%;
+        span {
+          textarea {
+            width: 100%;
+            height: 125px;
+          }
+        }
+      }
+      p:nth-child(7) {
+        position: relative;
+        width: 50%;
+      }
+    }
+    .wpcf7-submit {
+      background-color: black;
+      color: white;
+      border: none;
+      padding: 0.75em;
+      border-radius: 0.15em;
+      opacity: 1;
+      transition: .5s ease;
+      width: 100%;
+    }
+    .wpcf7-not-valid-tip {
+      position: absolute;
+      transform: translateY(-8px);
+    }
+    .wpcf7-spinner {
+      position: absolute;
+      top: 15px;
+    }
+  }
+
+  @media(min-width: 768px) {
+    #page-contact {
+      form {
+        p {
+          width: 48%;
+        }
+      }
+    }
+  }
+  @media(min-width: 991px) {
+    #page-contact {
+      p:nth-child(6) {
+        span {
+          textarea {
+            margin-bottom: 0;
+          }
+        }
+      }
+    }
+  }
+  
+  
+  
+  .main-contact{
+  padding: .5em;
+  }
+  
+  .aside-contact{
+  padding: .5em 0em .5em .5em;
+  }
+  
+  .aside-contact-container{
+    background-color: white;
+    border-radius: .15em;
+  
+  }
+  
+  
+  
+  .submit{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: .75em;
+    border-radius: .15em;
+    opacity: 1;
+    transition: .5s ease;
+  }
+  
+  .submit:hover{
+    opacity: .75;
+    transition: .5s ease;
+  }
+  
+  form{
+  margin-top: 2em;
+  margin-bottom: 2em;
+  }
+  
+  @keyframes container-1 {
+    0% {
+       opacity: 0;
+     }
+     /* Adding a step in the middle */
+     100% {
+       opacity: 1;
+     }
+  }
+  
+  .container-1{
+  animation-name: container-1;
+  animation-duration: 1.5s;
+  }
+  
+  @keyframes container-2 {
+    0% {
+       opacity: 0;
+     }
+     25% {
+       opacity: 0;
+     }
+     /* Adding a step in the middle */
+     100% {
+       opacity: 1;
+     }
+  }
+  
+  .container-2{
+    animation-name: container-2;
+    animation-duration: 1.5s;
+  
+  }
+  
+  @keyframes container-3 {
+    0% {
+       opacity: 0;
+     }
+     50% {
+       opacity: 0;
+     }
+     /* Adding a step in the middle */
+     100% {
+       opacity: 1;
+     }
+  }
+  
+  .container-3{
+    animation-name: container-3;
+    animation-duration: 1.5s;
+  
+  }
+  
+  
+  @media (min-width: 1400px){
+  
+  .article-awards{
+    height: 23vw!important;
+    position: relative;
+  }
+  
+  .article-statues{
+    height: 25vw!important;
+    position: relative;
+  }
+  
+  .article-awards h1{
+  margin-top: 1%;
+  }
+  
+  .article-statues h1{
+  margin-top: 1%;
+  }
+  
+  .airflyte-2{
+    height: 15vw!important;
+  }
+  
+  .gallery{
+    height: 38.25vw!important;
+    padding: 0!important;
+  }
+  
+  #gallery{
+  height: 25vw!important;
+  }
+  
+  .gallery h2{
+    margin-top: 1.5em!important;
+  }
+  
+  }
+  
+  @media (min-width: 1800px){
+    .article-awards h1{
+    margin-top: 7%!important;
+    }
+    .article-statues h1{
+    margin-top: 7%!important;
+    }
+  }
+  
