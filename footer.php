@@ -12,7 +12,20 @@
   <ul>
     <li><h3>Hours of Operation</h3></li>
     <li>Monday - Friday</li>
-    <li>9:00am - 1:00pm</li>
+    <?php
+        $args = array(
+            'pagename' => 'home'
+        );
+        $the_query = new WP_Query( $args ); ?>
+        <?php if ( $the_query->have_posts() ) : ?>
+            <?php while ( $the_query->have_posts() ) : $the_query->the_post(); ?>
+
+        <li><?php the_field('hours'); ?></li>
+
+            <?php endwhile; ?>
+    <?php wp_reset_postdata(); ?>
+    <?php endif; ?>
+
   </ul>
   </div>
 
