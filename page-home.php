@@ -1,6 +1,6 @@
 <?php get_header() ?>
       </header>
-<div class="col-12 float-left" id="page-home">
+<div class="col-12 float-left p-0" id="page-home">
 
 <body>
 <div class="container-fluid p-0">
