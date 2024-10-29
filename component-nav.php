@@ -19,7 +19,7 @@
     <li class="nav-item">
         <a class="nav-link" href="<?php echo get_site_url(); ?>/awards">Awards</a>
     </li>
-    <li class="nav-item">
+    <li class="nav-item d-none">
         <a class="nav-link" href="<?php echo get_site_url(); ?>/statue">Statues & Bronze</a>
     </li>
     <li class="nav-item">

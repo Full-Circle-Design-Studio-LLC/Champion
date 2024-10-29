@@ -666,6 +666,9 @@ h1{
     nav li{
       width: 20%;
     }
+    .navbar-nav {
+      justify-content: center;
+    }
   
     .airflyte{
     min-height: 5em !important;
