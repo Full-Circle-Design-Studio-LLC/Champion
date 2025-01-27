@@ -41,6 +41,9 @@
     <div class="designed-by">Designed By:</div>
     <a class="fcd-logo" href="https://full-circle.design/" target="_blank"><img class="fcd-logo-img" src="<?php echo get_template_directory_uri(); ?>/assets//fcd-logo.svg"></a>
   </div>
+  <div class="col-12 float-left text-center pb-4">
+          <a href="/code-of-conduct/">Code of Conduct</a>
+  </div>
 </footer>
 
 </div><!-- CLOSES PAGE-HOME -->

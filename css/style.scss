@@ -173,11 +173,15 @@ h1{
   footer a{
     opacity: 1;
     transition: .5s ease;
+    color: white;
+    text-decoration: underline;
   }
   
   footer a:hover{
     opacity: .5;
     transition: .5s ease;
+    color: white;
+    text-decoration: underline;
   }
   
   .article-container{
@@ -197,6 +201,10 @@ h1{
   .connect {
     width: 250px;
     max-width: none;
+  }
+
+  .page-article-container {
+    background-color: white;
   }
   @media screen and (min-width: 1200px) {
     .connect {
